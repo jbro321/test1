@@ -3,4 +3,4 @@
 3. django-admin startproject **_이름_**
 4. cd **_이름_**
 5. django-admin startapp board
-6.
+6. python manage.py runserver
