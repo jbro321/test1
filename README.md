@@ -10,4 +10,4 @@
 9. python manage.py migrate
 10. sqlite3 db.sqlite3 > .tables > .schema "jpuser" 로 db 확인
 11. python manage.py createsuperuser 로 admin 계정 생성
-12. admin.py > from .models import JPuser
+12. admin.py > from .models import Jpuser
